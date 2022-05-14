@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "27964619265",
+    "project_id": "shopping-app-flutter-b258f",
+    "storage_bucket": "shopping-app-flutter-b258f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27964619265:android:bddee0f399f3197e821e00",
+        "android_client_info": {
+          "package_name": "com.semihekmen.shopping_app_with_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27964619265-1a0slfg73d2pu5p03rjokouecb7imvv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semihekmen.shopping_app_with_flutter",
+            "certificate_hash": "e233f841cd9b6a186bcbc535dc2ab67e00cb0748"
+          }
+        },
+        {
+          "client_id": "27964619265-5fq3a46lgrpt76316siot7u326cgte3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZEJdoegbGRJpVXQu1NK04h2vjvUlNrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27964619265-5fq3a46lgrpt76316siot7u326cgte3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
