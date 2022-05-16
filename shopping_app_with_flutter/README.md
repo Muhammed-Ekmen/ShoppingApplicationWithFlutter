@@ -5,6 +5,6 @@ In This Project, I Have Done The Shopping Application. When I Was Doing This Pro
 -Firebase
 -Dio etc.
 ## Photos
-![Preview](introductionScreen.gif)
+![Preview](intro.gif)
 ![](HomePage.png)
 ![Preview](signInPage.gif)
