@@ -170,7 +170,7 @@ class RequiredMethodForCartPage extends ConsumerWidget {
                                             Divider(
                                               color: Colors.black,
                                             ),
-                                            Text(toBeList[index].description!),
+                                            Text(toBeList[index].description!,style: ConstantValues.fontTypeOfApp(enteredFontSize: 12, enteredFontWeight: FontWeight.bold),),
                                             Row(
                                               children: [
                                                 Text(
