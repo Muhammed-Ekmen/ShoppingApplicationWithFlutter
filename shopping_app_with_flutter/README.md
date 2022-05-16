@@ -6,5 +6,14 @@ In This Project, I Have Done The Shopping Application. When I Was Doing This Pro
 -Dio etc.
 ## Photos
 ![Preview](intro.gif)
-![Preview](signInPage.gif)
 ![](HomePage.png)
+![Preview](signInPage.gif)
+![](home.png)
+![](suggestion.png)
+![](menCategory.png)
+![](favorite.png)
+![](cart.gif)
+![](setting.png)
+![](delete.png)
+![](changePassword.png)
+![](github.png)
