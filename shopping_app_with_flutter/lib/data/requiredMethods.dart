@@ -134,6 +134,7 @@ class RequiredMethodForCartPage extends ConsumerWidget {
                                             MainAxisAlignment.center,
                                         children: [
                                           Container(
+                                            width: MediaQuery.of(context).size.width/2.6,
                                             height: MediaQuery.of(context)
                                                     .size
                                                     .height /

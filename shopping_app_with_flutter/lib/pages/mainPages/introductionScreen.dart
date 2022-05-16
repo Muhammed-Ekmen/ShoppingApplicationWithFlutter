@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:introduction_screen/introduction_screen.dart';
+import 'package:shopping_app_with_flutter/data/dataWareHouse.dart';
 import '../../data/requiredMethods.dart';
-
 
 class IntroductionPage extends StatefulWidget {
   const IntroductionPage({Key? key}) : super(key: key);
@@ -38,12 +38,21 @@ class IntroductionPageState extends State<IntroductionPage>
   @override
   Widget build(BuildContext context) {
     return IntroductionScreen(
+        baseBtnStyle: ButtonStyle(
+            foregroundColor: MaterialStateProperty.all(Colors.black),
+            textStyle: MaterialStateProperty.all(ConstantValues.fontTypeOfApp(
+                enteredFontSize: 16,
+                enteredFontWeight: FontWeight.bold))),
+        dotsDecorator: const DotsDecorator(
+          activeColor: Colors.black,
+          color: Colors.grey,
+        ),
         showDoneButton: true,
         showSkipButton: true,
         showNextButton: true,
-        next:const Text("Next"),
-        skip:const Text("Skip"),
-        done:const Text("Done"),
+        next: const Text("Next"),
+        skip: const Text("Skip"),
+        done: const Text("Done"),
         onSkip: () {
           RequiredMethodForIntroPage.introductionPageNextMethod(context);
         },
