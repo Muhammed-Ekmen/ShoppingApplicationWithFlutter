@@ -1,16 +1,9 @@
 # shopping_app_with_flutter
 
-A new Flutter project.
+In This Project, I Have Done The Shopping Application. When I Was Doing This Project, I Had More Based To IOS Platform. For Instance, I Have Used The Cupertino Picker,Cupertino Button etc. But Of course, We Can Use This App For Android Platform. There Are Some Tools At The Below Which I Have Used. Briefly, These Tools Are:
+-Riverpod
+-Firebase
+-Dio etc.
+## Photos
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](/introductionScreen.gif)
