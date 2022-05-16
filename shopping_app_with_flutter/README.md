@@ -6,4 +6,4 @@ In This Project, I Have Done The Shopping Application. When I Was Doing This Pro
 -Dio etc.
 ## Photos
 
-![Preview](/HomePage.png)
+![Preview](HomePage.png)
